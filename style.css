@@ -26,10 +26,13 @@ h1 {
   color: #3498db;
   text-transform: uppercase;
   letter-spacing: 3px;
-  weight: 800;
 }
 
 hr {
   width: 93%;
-  color: blue;
+
+}
+
+.vertical::first-letter {
+  font-size: 25px;
 }
