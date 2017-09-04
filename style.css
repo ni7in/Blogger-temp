@@ -1,0 +1,35 @@
+body {
+  border: 20px solid #2980b9;
+  width: 50%;
+  margin: auto;
+}
+
+p {
+  font-family: 'Source Sans Pro', serif;
+  margin: 3%;
+  font-size;
+
+}
+
+h1 {
+  font-family: 'Neucha', cursive;
+  margin: 3%;
+  text-transform: capitalize;
+}
+
+.vertical {
+  border-left: 4px solid #ee52c3;
+  padding-left: 1.1%;
+}
+
+.date {
+  color: #3498db;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  weight: 800;
+}
+
+hr {
+  width: 93%;
+  color: blue;
+}
